@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xe5jHbh5vjH7+vyJRwu1rlGDZVdLV+TPlDKJZwIPJQybq9bYd/Q5dYGgcrdC3utcSz0VXIxfbFc45eXnTlke4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kufreabasi Ita\\Desktop\\Coding\\Decagon Training\\Tasks\\Calculator\\calc-implements-solid\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kufreabasi Ita\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kufreabasi Ita\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
